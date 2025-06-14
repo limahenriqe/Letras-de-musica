@@ -26,6 +26,6 @@ Este é um projeto pessoal desenvolvido em Python com Streamlit, que permite bus
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 
-2. Execute o arquivo
+2. Execute o arquivo no ambiente (vscode, por exemplo) - já tendo instalado as biblliotecas necessárias, como a requests
 streamlit run app.py
 
