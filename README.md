@@ -1,6 +1,6 @@
 # 🎶 Letra de Músicas - App com Streamlit
 
-Este é um projeto pessoal desenvolvido em Python com Streamlit, que permite buscar letras de músicas de forma simples através de uma interface web. O usuário informa o nome do artista (ou banda) e o nome da música, e a aplicação retorna a letra correspondente utilizando a API pública [api.lyrics.ovh](https://api.lyrics.ovh). E um arquivo de testes utilizando o Jupyter.
+Este é um projeto pessoal desenvolvido em Python com Streamlit, que permite buscar letras de músicas de forma simples através de uma interface web. O usuário informa o nome do artista (ou banda) e o nome da música, e a aplicação retorna a letra correspondente utilizando a API pública [api.lyrics.ovh](https://api.lyrics.ovh). E um arquivo de testes utilizando o Jupyter Notebook.
 
 ## 🚀 Tecnologias utilizadas
 
