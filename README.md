@@ -25,3 +25,7 @@ Este é um projeto pessoal desenvolvido em Python com Streamlit, que permite bus
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
+
+2. Execute o arquivo
+streamlit run app.py
+
